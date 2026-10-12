@@ -1,6 +1,6 @@
 ﻿# Gustavo Rossi
 
-**Data Analytics | Market Intelligence | Business Intelligence | Data Engineering**
+**Data Analytics | Business Intelligence | Data Engineering**
 
 Estudante de Ciência da Computação e profissional de Dados & Analytics na Scala Data Centers, com experiência em desenvolvimento de soluções analíticas, automação de processos e estruturação de dados para suporte à tomada de decisão.
 
